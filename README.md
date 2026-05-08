@@ -1,6 +1,4 @@
-# kgnode
-
-**Training-Free Subgraph Extraction for Knowledge-Grounded Question Answering**
+## KGNode: Path-Aware Subgraph Extraction for Training-Free Question Answering over RDF Knowledge Graphs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
